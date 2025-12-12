@@ -1,0 +1,946 @@
+[
+    {
+      "elementChar": "H",
+      "elementNumb": "1",
+      "elementName": "Водород",
+      "atomicMass": "1.008",
+      "characteristic": "неметалл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B4"
+    },
+    {
+      "elementChar": "He",
+      "elementNumb": "2",
+      "elementName": "Гелий",
+      "atomicMass": "4.0026",
+      "characteristic": "инертный газ",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BB%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Li",
+      "elementNumb": "3",
+      "elementName": "Литий",
+      "atomicMass": "6.94",
+      "characteristic": "щелочной металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%82%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Be",
+      "elementNumb": "4",
+      "elementName": "Бериллий",
+      "atomicMass": "9.0122",
+      "characteristic": "щелочноземельный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "B",
+      "elementNumb": "5",
+      "elementName": "Бор",
+      "atomicMass": "10.81",
+      "characteristic": "неметалл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80"
+    },
+    {
+      "elementChar": "C",
+      "elementNumb": "6",
+      "elementName": "Углерод",
+      "atomicMass": "12.011",
+      "characteristic": "неметалл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B3%D0%BB%D0%B5%D1%80%D0%BE%D0%B4"
+    },
+    {
+      "elementChar": "N",
+      "elementNumb": "7",
+      "elementName": "Азот",
+      "atomicMass": "14.007",
+      "characteristic": "неметалл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B7%D0%BE%D1%82"
+    },
+    {
+      "elementChar": "O",
+      "elementNumb": "8",
+      "elementName": "Кислород",
+      "atomicMass": "15.999",
+      "characteristic": "неметалл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%81%D0%BB%D0%BE%D1%80%D0%BE%D0%B4"
+    },
+    {
+      "elementChar": "F",
+      "elementNumb": "9",
+      "elementName": "Фтор",
+      "atomicMass": "18.998",
+      "characteristic": "галоген",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A4%D1%82%D0%BE%D1%80"
+    },
+    {
+      "elementChar": "Ne",
+      "elementNumb": "10",
+      "elementName": "Неон",
+      "atomicMass": "20.180",
+      "characteristic": "инертный газ",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BE%D0%BD"
+    },
+    {
+      "elementChar": "Na",
+      "elementNumb": "11",
+      "elementName": "Натрий",
+      "atomicMass": "22.990",
+      "characteristic": "щелочной металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%82%D1%80%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Mg",
+      "elementNumb": "12",
+      "elementName": "Магний",
+      "atomicMass": "24.305",
+      "characteristic": "щелочноземельный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Al",
+      "elementNumb": "13",
+      "elementName": "Алюминий",
+      "atomicMass": "26.982",
+      "characteristic": "металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8E%D0%BC%D0%B8%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Si",
+      "elementNumb": "14",
+      "elementName": "Кремний",
+      "atomicMass": "28.085",
+      "characteristic": "неметалл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%BC%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "P",
+      "elementNumb": "15",
+      "elementName": "Фосфор",
+      "atomicMass": "30.974",
+      "characteristic": "неметалл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%81%D1%84%D0%BE%D1%80"
+    },
+    {
+      "elementChar": "S",
+      "elementNumb": "16",
+      "elementName": "Сера",
+      "atomicMass": "32.06",
+      "characteristic": "неметалл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "elementChar": "Cl",
+      "elementNumb": "17",
+      "elementName": "Хлор",
+      "atomicMass": "35.45",
+      "characteristic": "галоген",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BB%D0%BE%D1%80"
+    },
+    {
+      "elementChar": "Ar",
+      "elementNumb": "18",
+      "elementName": "Аргон",
+      "atomicMass": "39.948",
+      "characteristic": "инертный газ",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B3%D0%BE%D0%BD"
+    },
+    {
+      "elementChar": "K",
+      "elementNumb": "19",
+      "elementName": "Калий",
+      "atomicMass": "39.098",
+      "characteristic": "щелочной металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Ca",
+      "elementNumb": "20",
+      "elementName": "Кальций",
+      "atomicMass": "40.078",
+      "characteristic": "щелочноземельный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D1%86%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Sc",
+      "elementNumb": "21",
+      "elementName": "Скандий",
+      "atomicMass": "44.956",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Ti",
+      "elementNumb": "22",
+      "elementName": "Титан",
+      "atomicMass": "47.867",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%82%D0%B0%D0%BD"
+    },
+    {
+      "elementChar": "V",
+      "elementNumb": "23",
+      "elementName": "Ванадий",
+      "atomicMass": "50.942",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BD%D0%B0%D0%B4%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Cr",
+      "elementNumb": "24",
+      "elementName": "Хром",
+      "atomicMass": "51.996",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BC"
+    },
+    {
+      "elementChar": "Mn",
+      "elementNumb": "25",
+      "elementName": "Марганец",
+      "atomicMass": "54.938",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D0%BD%D0%B5%D1%86"
+    },
+    {
+      "elementChar": "Fe",
+      "elementNumb": "26",
+      "elementName": "Железо",
+      "atomicMass": "55.845",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BE"
+    },
+    {
+      "elementChar": "Co",
+      "elementNumb": "27",
+      "elementName": "Кобальт",
+      "atomicMass": "58.933",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D1%82"
+    },
+    {
+      "elementChar": "Ni",
+      "elementNumb": "28",
+      "elementName": "Никель",
+      "atomicMass": "58.693",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%B5%D0%BB%D1%8C"
+    },
+    {
+      "elementChar": "Cu",
+      "elementNumb": "29",
+      "elementName": "Медь",
+      "atomicMass": "63.546",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D1%8C"
+    },
+    {
+      "elementChar": "Zn",
+      "elementNumb": "30",
+      "elementName": "Цинк",
+      "atomicMass": "65.38",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BD%D0%BA"
+    },
+    {
+      "elementChar": "Ga",
+      "elementNumb": "31",
+      "elementName": "Галлий",
+      "atomicMass": "69.723",
+      "characteristic": "металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%BB%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Ge",
+      "elementNumb": "32",
+      "elementName": "Германий",
+      "atomicMass": "72.630",
+      "characteristic": "металлоид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "As",
+      "elementNumb": "33",
+      "elementName": "Мышьяк",
+      "atomicMass": "74.922",
+      "characteristic": "металлоид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%88%D1%8C%D1%8F%D0%BA"
+    },
+    {
+      "elementChar": "Se",
+      "elementNumb": "34",
+      "elementName": "Селен",
+      "atomicMass": "78.971",
+      "characteristic": "неметалл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B5%D0%BD"
+    },
+    {
+      "elementChar": "Br",
+      "elementNumb": "35",
+      "elementName": "Бром",
+      "atomicMass": "79.904",
+      "characteristic": "галоген",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%BC"
+    },
+    {
+      "elementChar": "Kr",
+      "elementNumb": "36",
+      "elementName": "Криптон",
+      "atomicMass": "83.798",
+      "characteristic": "инертный газ",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%BD"
+    },
+    {
+      "elementChar": "Rb",
+      "elementNumb": "37",
+      "elementName": "Рубидий",
+      "atomicMass": "85.468",
+      "characteristic": "щелочной металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%B1%D0%B8%D0%B4%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Sr",
+      "elementNumb": "38",
+      "elementName": "Стронций",
+      "atomicMass": "87.62",
+      "characteristic": "щелочноземельный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%BE%D0%BD%D1%86%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Y",
+      "elementNumb": "39",
+      "elementName": "Иттрий",
+      "atomicMass": "88.906",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%98%D1%82%D1%82%D1%80%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Zr",
+      "elementNumb": "40",
+      "elementName": "Цирконий",
+      "atomicMass": "91.224",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%80%D0%BA%D0%BE%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Nb",
+      "elementNumb": "41",
+      "elementName": "Ниобий",
+      "atomicMass": "92.906",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BE%D0%B1%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Mo",
+      "elementNumb": "42",
+      "elementName": "Молибден",
+      "atomicMass": "95.95",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%B8%D0%B1%D0%B4%D0%B5%D0%BD"
+    },
+    {
+      "elementChar": "Tc",
+      "elementNumb": "43",
+      "elementName": "Технеций",
+      "atomicMass": "98",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%B5%D1%86%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Ru",
+      "elementNumb": "44",
+      "elementName": "Рутений",
+      "atomicMass": "101.07",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%82%D0%B5%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Rh",
+      "elementNumb": "45",
+      "elementName": "Родий",
+      "atomicMass": "102.91",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Pd",
+      "elementNumb": "46",
+      "elementName": "Палладий",
+      "atomicMass": "106.42",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%BB%D0%B0%D0%B4%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Ag",
+      "elementNumb": "47",
+      "elementName": "Серебро",
+      "atomicMass": "107.87",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%BE"
+    },
+    {
+      "elementChar": "Cd",
+      "elementNumb": "48",
+      "elementName": "Кадмий",
+      "atomicMass": "112.41",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B4%D0%BC%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "In",
+      "elementNumb": "49",
+      "elementName": "Индий",
+      "atomicMass": "114.82",
+      "characteristic": "металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Sn",
+      "elementNumb": "50",
+      "elementName": "Олово",
+      "atomicMass": "118.71",
+      "characteristic": "металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D0%BE%D0%B2%D0%BE"
+    },
+    {
+      "elementChar": "Sb",
+      "elementNumb": "51",
+      "elementName": "Сурьма",
+      "atomicMass": "121.76",
+      "characteristic": "металлоид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D1%80%D1%8C%D0%BC%D0%B0"
+    },
+    {
+      "elementChar": "Te",
+      "elementNumb": "52",
+      "elementName": "Теллур",
+      "atomicMass": "127.60",
+      "characteristic": "металлоид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BB%D0%BB%D1%83%D1%80"
+    },
+    {
+      "elementChar": "I",
+      "elementNumb": "53",
+      "elementName": "Йод",
+      "atomicMass": "126.90",
+      "characteristic": "галоген",
+      "url": "https://ru.wikipedia.org/wiki/%D0%99%D0%BE%D0%B4"
+    },
+    {
+      "elementChar": "Xe",
+      "elementNumb": "54",
+      "elementName": "Ксенон",
+      "atomicMass": "131.29",
+      "characteristic": "инертный газ",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%81%D0%B5%D0%BD%D0%BE%D0%BD"
+    },
+    {
+      "elementChar": "Cs",
+      "elementNumb": "55",
+      "elementName": "Цезий",
+      "atomicMass": "132.91",
+      "characteristic": "щелочной металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%B7%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Ba",
+      "elementNumb": "56",
+      "elementName": "Барий",
+      "atomicMass": "137.33",
+      "characteristic": "щелочноземельный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "La",
+      "elementNumb": "57",
+      "elementName": "Лантан",
+      "atomicMass": "138.91",
+      "characteristic": "лантаноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D1%82%D0%B0%D0%BD"
+    },
+    {
+      "elementChar": "Ce",
+      "elementNumb": "58",
+      "elementName": "Церий",
+      "atomicMass": "140.12",
+      "characteristic": "лантаноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D1%80%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Pr",
+      "elementNumb": "59",
+      "elementName": "Празеодим",
+      "atomicMass": "140.91",
+      "characteristic": "лантаноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B5%D0%BE%D0%B4%D0%B8%D0%BC"
+    },
+    {
+      "elementChar": "Nd",
+      "elementNumb": "60",
+      "elementName": "Неодим",
+      "atomicMass": "144.24",
+      "characteristic": "лантаноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BE%D0%B4%D0%B8%D0%BC"
+    },
+    {
+      "elementChar": "Pm",
+      "elementNumb": "61",
+      "elementName": "Прометий",
+      "atomicMass": "145",
+      "characteristic": "лантаноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Sm",
+      "elementNumb": "62",
+      "elementName": "Самарий",
+      "atomicMass": "150.36",
+      "characteristic": "лантаноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Eu",
+      "elementNumb": "63",
+      "elementName": "Европий",
+      "atomicMass": "151.96",
+      "characteristic": "лантаноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Gd",
+      "elementNumb": "64",
+      "elementName": "Гадолиний",
+      "atomicMass": "157.25",
+      "characteristic": "лантаноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Tb",
+      "elementNumb": "65",
+      "elementName": "Тербий",
+      "atomicMass": "158.93",
+      "characteristic": "лантаноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%B1%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Dy",
+      "elementNumb": "66",
+      "elementName": "Диспрозий",
+      "atomicMass": "162.50",
+      "characteristic": "лантаноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D0%BF%D1%80%D0%BE%D0%B7%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Ho",
+      "elementNumb": "67",
+      "elementName": "Гольмий",
+      "atomicMass": "164.93",
+      "characteristic": "лантаноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%8C%D0%BC%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Er",
+      "elementNumb": "68",
+      "elementName": "Эрбий",
+      "atomicMass": "167.26",
+      "characteristic": "лантаноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%B1%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Tm",
+      "elementNumb": "69",
+      "elementName": "Тулий",
+      "atomicMass": "168.93",
+      "characteristic": "лантаноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BB%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Yb",
+      "elementNumb": "70",
+      "elementName": "Иттербий",
+      "atomicMass": "173.05",
+      "characteristic": "лантаноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%98%D1%82%D1%82%D0%B5%D1%80%D0%B1%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Lu",
+      "elementNumb": "71",
+      "elementName": "Лютеций",
+      "atomicMass": "174.97",
+      "characteristic": "лантаноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D1%82%D0%B5%D1%86%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Hf",
+      "elementNumb": "72",
+      "elementName": "Гафний",
+      "atomicMass": "178.49",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%84%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Ta",
+      "elementNumb": "73",
+      "elementName": "Тантал",
+      "atomicMass": "180.95",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BD%D1%82%D0%B0%D0%BB"
+    },
+    {
+      "elementChar": "W",
+      "elementNumb": "74",
+      "elementName": "Вольфрам",
+      "atomicMass": "183.84",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC"
+    },
+    {
+      "elementChar": "Re",
+      "elementNumb": "75",
+      "elementName": "Рений",
+      "atomicMass": "186.21",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Os",
+      "elementNumb": "76",
+      "elementName": "Осмий",
+      "atomicMass": "190.23",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D0%BC%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Ir",
+      "elementNumb": "77",
+      "elementName": "Иридий",
+      "atomicMass": "192.22",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%B8%D0%B4%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Pt",
+      "elementNumb": "78",
+      "elementName": "Платина",
+      "atomicMass": "195.08",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "elementChar": "Au",
+      "elementNumb": "79",
+      "elementName": "Золото",
+      "atomicMass": "196.97",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE"
+    },
+    {
+      "elementChar": "Hg",
+      "elementNumb": "80",
+      "elementName": "Ртуть",
+      "atomicMass": "200.59",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D1%82%D1%83%D1%82%D1%8C"
+    },
+    {
+      "elementChar": "Tl",
+      "elementNumb": "81",
+      "elementName": "Таллий",
+      "atomicMass": "204.38",
+      "characteristic": "металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Pb",
+      "elementNumb": "82",
+      "elementName": "Свинец",
+      "atomicMass": "207.2",
+      "characteristic": "металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B8%D0%BD%D0%B5%D1%86"
+    },
+    {
+      "elementChar": "Bi",
+      "elementNumb": "83",
+      "elementName": "Висмут",
+      "atomicMass": "208.98",
+      "characteristic": "металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%81%D0%BC%D1%83%D1%82"
+    },
+    {
+      "elementChar": "Po",
+      "elementNumb": "84",
+      "elementName": "Полоний",
+      "atomicMass": "209",
+      "characteristic": "металлоид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "At",
+      "elementNumb": "85",
+      "elementName": "Астат",
+      "atomicMass": "210",
+      "characteristic": "галоген",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D0%B0%D1%82"
+    },
+    {
+      "elementChar": "Rn",
+      "elementNumb": "86",
+      "elementName": "Радон",
+      "atomicMass": "222",
+      "characteristic": "инертный газ",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%BE%D0%BD"
+    },
+    {
+      "elementChar": "Fr",
+      "elementNumb": "87",
+      "elementName": "Франций",
+      "atomicMass": "223",
+      "characteristic": "щелочной металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Ra",
+      "elementNumb": "88",
+      "elementName": "Радий",
+      "atomicMass": "226",
+      "characteristic": "щелочноземельный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Ac",
+      "elementNumb": "89",
+      "elementName": "Актиний",
+      "atomicMass": "227",
+      "characteristic": "актиноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D1%82%D0%B8%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Th",
+      "elementNumb": "90",
+      "elementName": "Торий",
+      "atomicMass": "232.04",
+      "characteristic": "актиноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%80%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Pa",
+      "elementNumb": "91",
+      "elementName": "Протактиний",
+      "atomicMass": "231.04",
+      "characteristic": "актиноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B0%D0%BA%D1%82%D0%B8%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "U",
+      "elementNumb": "92",
+      "elementName": "Уран",
+      "atomicMass": "238.03",
+      "characteristic": "актиноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D0%B0%D0%BD"
+    },
+    {
+      "elementChar": "Np",
+      "elementNumb": "93",
+      "elementName": "Нептуний",
+      "atomicMass": "237",
+      "characteristic": "актиноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BF%D1%82%D1%83%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Pu",
+      "elementNumb": "94",
+      "elementName": "Плутоний",
+      "atomicMass": "244",
+      "characteristic": "актиноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D1%83%D1%82%D0%BE%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Am",
+      "elementNumb": "95",
+      "elementName": "Америций",
+      "atomicMass": "243",
+      "characteristic": "актиноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D1%86%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Cm",
+      "elementNumb": "96",
+      "elementName": "Кюрий",
+      "atomicMass": "247",
+      "characteristic": "актиноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8E%D1%80%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Bk",
+      "elementNumb": "97",
+      "elementName": "Берклий",
+      "atomicMass": "247",
+      "characteristic": "актиноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BA%D0%BB%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Cf",
+      "elementNumb": "98",
+      "elementName": "Калифорний",
+      "atomicMass": "251",
+      "characteristic": "актиноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Es",
+      "elementNumb": "99",
+      "elementName": "Эйнштейний",
+      "atomicMass": "252",
+      "characteristic": "актиноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%B9%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Fm",
+      "elementNumb": "100",
+      "elementName": "Фермий",
+      "atomicMass": "257",
+      "characteristic": "актиноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D1%80%D0%BC%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Md",
+      "elementNumb": "101",
+      "elementName": "Менделевий",
+      "atomicMass": "258",
+      "characteristic": "актиноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BD%D0%B4%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "No",
+      "elementNumb": "102",
+      "elementName": "Нобелий",
+      "atomicMass": "259",
+      "characteristic": "актиноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B1%D0%B5%D0%BB%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Lr",
+      "elementNumb": "103",
+      "elementName": "Лоуренсий",
+      "atomicMass": "262",
+      "characteristic": "актиноид",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%83%D1%80%D0%B5%D0%BD%D1%81%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Rf",
+      "elementNumb": "104",
+      "elementName": "Резерфордий",
+      "atomicMass": "267",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D1%84%D0%BE%D1%80%D0%B4%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Db",
+      "elementNumb": "105",
+      "elementName": "Дубний",
+      "atomicMass": "270",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Sg",
+      "elementNumb": "106",
+      "elementName": "Сиборгий",
+      "atomicMass": "271",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B1%D0%BE%D1%80%D0%B3%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Bh",
+      "elementNumb": "107",
+      "elementName": "Борий",
+      "atomicMass": "274",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Hs",
+      "elementNumb": "108",
+      "elementName": "Хассий",
+      "atomicMass": "276",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D1%81%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Mt",
+      "elementNumb": "109",
+      "elementName": "Мейтнерий",
+      "atomicMass": "278",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B9%D1%82%D0%BD%D0%B5%D1%80%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Ds",
+      "elementNumb": "110",
+      "elementName": "Дармштадтий",
+      "atomicMass": "281",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D1%80%D0%BC%D1%88%D1%82%D0%B0%D0%B4%D1%82%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Rg",
+      "elementNumb": "111",
+      "elementName": "Рентгений",
+      "atomicMass": "282",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D1%82%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Cn",
+      "elementNumb": "112",
+      "elementName": "Коперниций",
+      "atomicMass": "285",
+      "characteristic": "переходный металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BF%D0%B5%D1%80%D0%BD%D0%B8%D1%86%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Nh",
+      "elementNumb": "113",
+      "elementName": "Нихоний",
+      "atomicMass": "286",
+      "characteristic": "металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D1%85%D0%BE%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Fl",
+      "elementNumb": "114",
+      "elementName": "Флеровий",
+      "atomicMass": "289",
+      "characteristic": "металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BB%D0%B5%D1%80%D0%BE%D0%B2%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Mc",
+      "elementNumb": "115",
+      "elementName": "Московий",
+      "atomicMass": "290",
+      "characteristic": "металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Lv",
+      "elementNumb": "116",
+      "elementName": "Ливерморий",
+      "atomicMass": "293",
+      "characteristic": "металл",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B2%D0%B5%D1%80%D0%BC%D0%BE%D1%80%D0%B8%D0%B9"
+    },
+    {
+      "elementChar": "Ts",
+      "elementNumb": "117",
+      "elementName": "Теннессин",
+      "atomicMass": "294",
+      "characteristic": "галоген",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B5%D1%81%D1%81%D0%B8%D0%BD"
+    },
+    {
+      "elementChar": "Og",
+      "elementNumb": "118",
+      "elementName": "Оганесон",
+      "atomicMass": "294",
+      "characteristic": "инертный газ",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B3%D0%B0%D0%BD%D0%B5%D1%81%D0%BE%D0%BD"
+    }
+  ]
