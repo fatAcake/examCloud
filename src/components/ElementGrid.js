@@ -1,6 +1,21 @@
 import React from 'react';
 
-function ElementGrid({ elements, characteristicClass, minWidth = 110 }) {
+function ElementGrid({ elements, characteristicClass, minWidth = 110, onDragStart }) {
+  const handleDragStart = (e, element) => {
+    e.dataTransfer.effectAllowed = 'copy';
+    e.dataTransfer.setData('application/json', JSON.stringify(element));
+    if (onDragStart) {
+      onDragStart(e, element);
+    }
+  };
+
+  const handleClick = (e, element) => {
+    
+    if (e.detail === 0) {
+      e.preventDefault();
+    }
+  };
+
   return (
     <div
       className="grid"
@@ -16,6 +31,9 @@ function ElementGrid({ elements, characteristicClass, minWidth = 110 }) {
           rel="noreferrer"
           role="listitem"
           title={cell.characteristic}
+          draggable="true"
+          onDragStart={(e) => handleDragStart(e, cell)}
+          onClick={(e) => handleClick(e, cell)}
         >
           <span className="number">{cell.elementNumb}</span>
           <span className="symbol">{cell.elementChar}</span>
